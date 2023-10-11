@@ -1,0 +1,6 @@
+{
+  "path": "shuyuan.json",
+  "workers": 2,
+  "timeout": 2,
+  "outpath": "result"
+}
